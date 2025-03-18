@@ -1,4 +1,14 @@
 # PROJETO-3-CONSTRUINDO-UM-NEGOCIO-COM-NO-CODE-OU-LOW-CODE
 <h1>Cat´s Miau</h1>
 <br>
-<p>O site cat´s Miautem em seu intuito falar algumas curiosidades sobre os nossos queridos felinos</p>
+<h3>Descrição:</h3>
+<p>O site Cat's Miau tem como objetivo principal compartilhar curiosidades fascinantes sobre nossos adoráveis felinos. Além disso, você encontrará uma galeria de fotos encantadoras que capturam a essência carismática dos gatos.</p>
+<br>
+<h3>Funcionalidades:</h3>
+<li>
+  <ul><p>Curiosidades sobre gatos: Descubra fatos interessantes e informações úteis sobre o comportamento, a saúde e as características dos gatos.</p></ul>
+  <ul><p>Galeria de fotos: Desfrute de uma coleção de imagens cativantes que celebram a beleza e o charme dos gatos.</p></ul>
+  <ul><p>Interface amigável: Navegue pelo site de forma intuitiva e encontre facilmente o que procura.</p></ul>
+</li>
+<br>
+<p>Feito e produzido no site <a>Blogger</a>.</p>
