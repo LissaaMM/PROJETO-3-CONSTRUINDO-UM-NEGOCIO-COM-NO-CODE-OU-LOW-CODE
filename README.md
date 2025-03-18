@@ -7,7 +7,9 @@
 <h3>Funcionalidades:</h3>
 <li>
   <ul><p>Curiosidades sobre gatos: Descubra fatos interessantes e informações úteis sobre o comportamento, a saúde e as características dos gatos.</p></ul>
-  <ul><p>Galeria de fotos: Desfrute de uma coleção de imagens cativantes que celebram a beleza e o charme dos gatos.</p></ul>
+</li>
+  <li><ul><p>Galeria de fotos: Desfrute de uma coleção de imagens cativantes que celebram a beleza e o charme dos gatos.</p></ul></li>
+  <li>
   <ul><p>Interface amigável: Navegue pelo site de forma intuitiva e encontre facilmente o que procura.</p></ul>
 </li>
 <br>
