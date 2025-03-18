@@ -1,6 +1,5 @@
 # PROJETO-3-CONSTRUINDO-UM-NEGOCIO-COM-NO-CODE-OU-LOW-CODE
 <h1>Cat´s Miau</h1>
-<hr>
 <h3>Descrição:</h3>
 <p>O site Cat's Miau tem como objetivo principal compartilhar curiosidades fascinantes sobre nossos adoráveis felinos. Além disso, você encontrará uma galeria de fotos encantadoras que capturam a essência carismática dos gatos.</p>
 <hr>
